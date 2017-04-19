@@ -1,4 +1,4 @@
-# Marlin 3D Printer Firmware
+# Marlin 3D Printer Firmware for Taz Build at MAKEVentura
 
 <img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
